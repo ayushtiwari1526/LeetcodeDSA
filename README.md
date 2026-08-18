@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ayushtiwari1526/LeetcodeDSA/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushtiwari1526/LeetcodeDSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayushtiwari1526/LeetcodeDSA/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/ayushtiwari1526/LeetcodeDSA/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/ayushtiwari1526/LeetcodeDSA/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/ayushtiwari1526/LeetcodeDSA/tree/master/0704-binary-search) |
 ## Hash Table
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayushtiwari1526/LeetcodeDSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ayushtiwari1526/LeetcodeDSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
